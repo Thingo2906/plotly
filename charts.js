@@ -1,5 +1,4 @@
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
+
 // Module 12
 
 function init() {
